@@ -6,7 +6,17 @@
 My name is Huy, and I am an embedded software engineer from Vietnam. I'm excited about new opportunities and challenges where I can leverage my skills and knowledge in programming and embedded systems to contribute to cutting-edge technological advancements.
 
 ## Skills
-Skills: C/C++, Python , Microcontroller Programming
+• Languages: C, embedded C, C++, Python
+ • Frameworks / Toolkits: FreeRTOS, Open CV, Qt5, ESP-IDF
+ • Software: Keil uVision, Arduino IDE, Qt Creator, Visual Studio Code, Proteus, Git
+ • Communication Protocols / Hardware: I2C, I2S, UART, SPI, UDP
+ • Embedded devices: ESP32, 8051
+ Education 
+ 
+
+ 
+ 
+ 
 
 
 
